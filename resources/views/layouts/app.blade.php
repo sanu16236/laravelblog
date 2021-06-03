@@ -23,7 +23,7 @@
                 <nav class="flex items-center justify-between flex-wrap">
                     <div>
                         <a href="{{ url('/') }}" class="text-lg font-semibold text-gray-100 no-underline">
-                            {{ config('app.name', 'SK Coding') }}
+                            {{ config('app.name', 'laravel') }}
                         </a>
                     </div>
                     <div class="block sm:hidden">
